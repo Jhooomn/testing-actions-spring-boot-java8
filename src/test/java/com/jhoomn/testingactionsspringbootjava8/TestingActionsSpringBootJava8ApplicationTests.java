@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 class TestingActionsSpringBootJava8ApplicationTests {
 
     private static final String A_VALUE = "A";
-    private static final String B_VALUE = "A";
+    private static final String B_VALUE = "B";
 
     @Test
     void justASimpleTest() throws Exception {
